@@ -1,0 +1,6 @@
+{
+  "name": "Apex Highway Rider 3D",
+  "description": "An immersive, high-speed 3D motorcycle highway traffic simulator for PC and Android featuring realistic bike physics, reactive traffic AI, multiple camera views, responsive touch/keyboard controls, career modes, and garage tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
